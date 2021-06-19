@@ -16,16 +16,16 @@ The project is based on ELEGOO tutorials: https://www.elegoo.com/pages/arduino-k
 * Wires - x22
 * USB Cable - x1
 
-Circuit Diagram:
+### Circuit Diagram
 ![Circuit Diagram](diagram/arduino-meteo-sensor.png)
 
-Tools:
+### Tools
 * Arduino Studio 1.8.12
 
-Optional:
+### Optional
 * Virtual Breadboard 1.5.0 - to open and modify the circuit diagram
 
-Flash:
+### Flash
 * Connect the microcontroller via USB
 * Open src/arduino-meteo-sensor/arduino-meteo-sensor.ino in Arduino Studio
 * Go to Sketch -> Include Library -> Use ZIP Library...
