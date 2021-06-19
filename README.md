@@ -1,4 +1,4 @@
-# Aduino-Meteo-Sensor
+# Aduino Meteo Sensor
 
 Simple Arduino project of a meteo sensor displaying current temperature and humidity values.
 The display remains in the sleep until it is waked up from a clap.
