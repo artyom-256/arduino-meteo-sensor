@@ -14,6 +14,7 @@ The project is based on ELEGOO tutorials: https://www.elegoo.com/pages/arduino-k
 * KY-038 Sound Sensor Module - x1
 * 830 Tie-Points Breadboard - x1
 * Wires - x22
+* 9V/1A DC Power supply (DC-005 male plug) - x1
 * USB Cable - x1
 
 ### Circuit Diagram
